@@ -1,4 +1,4 @@
-Project: Project Management System using PHP/MySQL
+Project: Project Management System using PHP, MySQL , HTML  , CSS , JS , BOOTSTRAP , JQUERY
 
 About
 
